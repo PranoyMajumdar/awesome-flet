@@ -17,3 +17,4 @@
 ## Tutorials
 - [Build a Markdown Editor Flutter App With the Flet Python Framework](https://betterprogramming.pub/building-a-markdown-editor-previewer-with-flet-7d9b06d6dc4b)
 - [Create Flutter apps 📲 using Python 🐍](https://blog.quasarcommunity.org/create-flutter-apps-using-python)
+- [Create awesome UI with flet - Playlist](https://youtube.com/playlist?list=PLDHA4931gtc4g57ARUkh5AeeSmfdI8WhF&feature=shares)
